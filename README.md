@@ -1,5 +1,5 @@
 # Hello World ! 👋 
-I'm Vijan Wijewardana
+I'm Vijan Wijewardana ( Make my name with effect )
 
 ## 🖥️ My Coding Journey
 ```python
@@ -9,7 +9,7 @@ while True:
     code()
     innovate()
 ```
-
+<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"> </div>
 add coding gif
 
 # 💻 Tech Stack:
