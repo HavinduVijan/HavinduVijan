@@ -49,15 +49,7 @@ while True:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HavinduVijan&theme=radical&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
 
 </div>
 
@@ -81,4 +73,4 @@ while True:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-<i>Keep Learning, Keep Growing! 🚀</i>
+<i>Keep Learning, Keep Growing! 🚀</i>z
