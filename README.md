@@ -1,18 +1,72 @@
-## I'm [Your Name]
+# 👋 Hello, I'm [Your Name]
 
-### A Dedicated Computer Science Student from the University of Westminster
+## 🎓 Computer Science Undergraduate | University of Westminster @ IIT
 
-![Profile Views](https://komarev.com/ghpvc/?username=HavinduVijan&color=blue) ![Stars](https://img.shields.io/github/stars/HavinduVijan?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile Banner](https://your-banner-image-url.com)
 
-- 🎓 BSc Hons Computer Science undergraduate at the University of Westminster
-- 💻 I'm currently exploring [specific tech, e.g., Python, JavaScript, or cloud computing]
-- 📫 Reach out to me for collaboration or tech discussions!
-- ⚡ Fun Fact: [Add a fun fact about yourself, e.g., I love solving puzzles or I’m a coffee enthusiast!]
+### 🚀 About Me
 
-![Illustration of a student coding](https://via.placeholder.com/300x200.png?text=Student+Coding+Illustration)
+I'm a dedicated computer science student pursuing a University of Westminster degree at the International Institute of Technology (IIT). My academic journey combines international curriculum with cutting-edge technological education, driving my passion for innovation and software development.
+
+### 💻 Tech Stack
+
+**Languages:**
+- Python
+- Java
+- C++
+- JavaScript
+- SQL
+
+**Frameworks & Tools:**
+- React
+- Node.js
+- Django
+- Git & GitHub
+- Docker
+- Linux
+
+### 🌟 Key Projects
+
+#### 1. [Project Name]
+- Brief description of the project
+- Technologies used
+- Key challenges and solutions
+- [Link to Project Repository]
+
+#### 2. [Project Name]
+- Brief description of the project
+- Technologies used
+- Key challenges and solutions
+- [Link to Project Repository]
+
+### 🏆 Achievements
+
+- Academic Excellence Award, [Year]
+- Hackathon Winner, [Event Name], [Year]
+- Open Source Contributor
+
+### 🌱 Currently Learning
+
+- Machine Learning
+- Cloud Computing
+- Artificial Intelligence
+- Advanced Algorithms
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 📝 Blog & Articles
+
+- [Article/Blog Post Title 1]
+- [Article/Blog Post Title 2]
 
 ---
 
-### My Statistics:
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HavinduVijan&show_icons=true&theme=radical)
+⭐️ From [Your Name] | Innovating through Code 🖥️
