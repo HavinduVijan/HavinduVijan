@@ -21,7 +21,7 @@ while True:
 ```
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW03ZndldXdvZ2VtdnFxZGRtcGVrYWI1anZieDY3eXhtYWk1a2RmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width=""600 alt="coding gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW03ZndldXdvZ2VtdnFxZGRtcGVrYWI1anZieDY3eXhtYWk1a2RmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="600" alt="coding gif">
 </div>
 
 ---
