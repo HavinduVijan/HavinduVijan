@@ -21,7 +21,7 @@ while True:
 ```
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtwZ3psbmgxeGxqYTUydDcycDFpdmJoYm5hN2t4Mjh6MjY3MGQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="coding gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1azNkcG40NmhtZmptcmJsYjFmZGZiNHFveXIzc2lsNGNyeWc0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="400" alt="coding gif">
 </div>
 
 ---
@@ -81,12 +81,4 @@ while True:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtwZ3psbmgxeGxqYTUydDcycDFpdmJoYm5hN2t4Mjh6MjY3MGQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Contact GIF">
-
-</div>
-
----
-
-<div align="center">
-  <i>Keep Learning, Keep Growing! 🚀</i>
-</div>
+<i>Keep Learning, Keep Growing! 🚀</i>
