@@ -36,7 +36,7 @@ while True:
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -73,4 +73,5 @@ while True:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-<i>Keep Learning, Keep Growing! 🚀</i>z
+
+### Keep Learning, Keep Growing! 🚀
