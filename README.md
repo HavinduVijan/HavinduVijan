@@ -1,6 +1,6 @@
 # Hello World ! 👋 
 
-<div class="tenor-gif-embed" data-postid="9466370892182877823" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/carregando-loading-gif-9466370892182877823">Carregando Loading GIF</a>from <a href="https://tenor.com/search/carregando-gifs">Carregando GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.tenor.com/6gC1nW3wQeMAAAAd/carregando-loading.gif" width="150" align="center">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=I'm+Vijan+Wijewardana" alt="Animated Name" />
