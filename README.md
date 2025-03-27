@@ -2,7 +2,7 @@
 
 ### A Dedicated Computer Science Student from the University of Westminster
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![Stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=HavinduVijan&color=blue) ![Stars](https://img.shields.io/github/stars/HavinduVijan?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 - 🎓 BSc Hons Computer Science undergraduate at the University of Westminster
 - 💻 I'm currently exploring [specific tech, e.g., Python, JavaScript, or cloud computing]
