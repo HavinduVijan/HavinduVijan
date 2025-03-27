@@ -1,6 +1,7 @@
 # Hello World ! 👋 
-I'm Vijan Wijewardana ( Make my name with effect )
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=I'm+Vijan+Wijewardana" alt="Animated Name" />
+</div>
 ## 🖥️ My Coding Journey
 ```python
 print("Building Future Tech Solutions")
