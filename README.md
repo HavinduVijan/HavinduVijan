@@ -2,8 +2,6 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+👋" alt="Animated Hello World" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5ja2x0dW5yMWJua3R1cjhuY3JvcGdiMWFiOXF5eG16eWNsbHViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="300" alt="Loading animation">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=I'M+VIJAN+WIJEWARDANA" alt="Animated Description" />
