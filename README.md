@@ -17,7 +17,7 @@ while True:
     code()
     innovate()
 ```
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"> </div>
+<div align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtwZ3psbmgxeGxqYTUydDcycDFpdmJoYm5hN2t4Mjh6MjY3MGQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="coding gif"> </div>
 add coding gif
 
 # 💻 Tech Stack:
