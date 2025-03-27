@@ -24,15 +24,29 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🚀 Featured Projects
+# Hi there! 👋 
+<img align="right" src="https://undraw.co/illustrations/coding.svg" width="400">
 
-#### 1. [Project Name]
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[RepoName]&theme=radical)](https://github.com/[YourUsername]/[RepoName])
-▶️ Brief description of project and technologies used
+## 🖥️ My Coding Journey
+```python
+print("Building Future Tech Solutions")
+while True:
+    learn()
+    code()
+    innovate()
+```
 
-#### 2. [Project Name]
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=[YourUsername]&repo=[RepoName]&theme=radical)](https://github.com/[YourUsername]/[RepoName])
-▶️ Brief description of project and technologies used
+### 🛠 Daily Tools
+<div align="center">
+  <img src="https://svgshare.com/i/r5W.svg" width="80">&nbsp;
+  <img src="https://svgshare.com/i/r5Z.svg" width="80">&nbsp;
+  <img src="https://svgshare.com/i/r6c.svg" width="80">
+</div>
 
+### 📊 Coding Activity
+<!-- GitHub Stats with Coding SVG Background -->
+[![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/YOUR_USERNAME)
+<img align="right" src="https://raw.githubusercontent.com/username/repo/main/assets/coding_animation.svg" width="200">
 ### 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=[YourUsername]&theme=radical)](https://git.io/streak-stats)
