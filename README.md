@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+👋" alt="Animated Hello World" />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtwZ3psbmgxeGxqYTUydDcycDFpdmJoYm5hN2t4Mjh6MjY3MGQ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Loading animation">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5ja2x0dW5yMWJua3R1cjhuY3JvcGdiMWFiOXF5eG16eWNsbHViZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="300" alt="Loading animation">
 </div>
 
 <div align="center">
