@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF0000,00FF00,0000FF,FFD700&center=true&vCenter=true&width=600&height=60&lines=HELLO+WORLD!+👋;WELCOME+TO+MY+PROFILE!;CODE+|+LEARN+|+INNOVATE" alt="Animated Colorful Hello World" />
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=I'M+VIJAN+WIJEWARDANA" alt="Animated Description" />
 </div>
 
